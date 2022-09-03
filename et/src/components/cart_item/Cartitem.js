@@ -13,6 +13,8 @@ export const Cartitem = () => {
 
   const {id} = useParams()
 
+// commit to change
+
   const compare =()=>{
     let getitem = getdata.filter( (e)=>{
      return e.id==id

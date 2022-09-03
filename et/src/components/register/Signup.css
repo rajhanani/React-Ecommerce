@@ -1,0 +1,56 @@
+.form{
+    background-color: rgb(215, 227, 233);
+    width: 80%;
+    text-align: center;
+    height: 400px;
+    margin:10px auto 0 auto;
+    border-radius: 5px;
+    
+  
+   
+    
+}
+#main{
+   background-color: rgb(147, 178, 205);
+   padding: 20px 0px;
+   width: 40%;
+   margin: 10px auto;
+   
+   
+}
+
+.input_filed{
+    margin: 13px;
+    width: 350px;
+    padding: 10px;
+    border:none;
+    border-radius: 5px;
+    
+}
+
+.input_filed:hover{
+    border: 2px solid black; 
+}
+
+.btn-primary{
+    border: none;
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.sign h2{
+   text-align: center;
+}
+.sign{
+    padding: 5px;
+    background-color: rgb(207, 247, 252);
+    width: 30%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+ a {
+    color: blue;
+}

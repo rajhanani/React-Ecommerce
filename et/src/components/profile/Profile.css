@@ -1,0 +1,46 @@
+.userdata{
+    background-color: rgb(205, 153, 50);
+    padding: 10px;
+    width: 550px;
+    margin: 30px auto auto auto;
+    border-radius: 10px;
+    
+   
+}
+
+.userdata p{
+    padding: 12px;
+    background-color: aliceblue;
+    width:450px;
+    margin: 12px 0 12px 0px;
+    font-size: 20px;
+    color: rgb(7, 96, 141);
+    
+}
+
+.user_details{
+    margin-left: 30px;
+   margin-right: 31px;
+}
+
+.user_details p span{
+    color: rgb(141, 7, 7);
+    margin-right: 10px;
+}
+
+.user_img{
+    width: 40%;
+    margin: auto;
+}
+
+.user_img img{
+    width: 100%;
+    height: auto;
+}
+
+span i{
+    margin-left:5px;
+}
+.edit{
+    margin-left: 0px;
+}

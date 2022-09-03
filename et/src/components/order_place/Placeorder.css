@@ -1,0 +1,40 @@
+.address{
+    padding: 60px;
+}
+
+.sign{
+    padding: 5px;
+    background-color: rgb(207, 247, 252);
+    width: 40%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.sign h2{
+    font-size: 24px;
+    
+}
+
+.form{
+    height: 550px;
+}
+
+.form button{
+    margin-top: 20px;
+}
+
+#place_address{
+    display: none;
+    padding: 70px;
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 24px;
+}
+
+#place_address p{
+    color: rgb(24, 24, 227);
+}
+
+.conform{
+    color: brown;
+}

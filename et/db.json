@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "meet patel",
+      "email": "meet@gmail.com",
+      "phone": 9913548243,
+      "password": 111
+    },
+    {
+      "name": "Rakshit Vadaliya",
+      "email": "rakshit@gmail.com",
+      "phone": "9913548243",
+      "password": "6262",
+      "id": 2
+    },
+    {
+      "name": "Harsh maisuri",
+      "email": "harsh@gmail.com",
+      "phone": "9913548243",
+      "password": "1234556",
+      "id": 3
+    }
+    
+  ],
+  "comments": [
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

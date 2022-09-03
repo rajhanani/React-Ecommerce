@@ -1,0 +1,45 @@
+/* ul{
+    list-style-type: none;
+  
+   padding: 14px;
+    margin: auto;
+   justify-content: center;
+   
+   
+}
+li{
+    float: left;
+    margin-left: 20px;
+   
+   
+    
+}
+li a{
+    color: black;
+    text-decoration: none;
+}
+.nav{
+    width: 100%;
+    background-color: rgb(174, 202, 227);
+}
+
+.cart i{
+    font-size: 40px
+}
+
+.cartdata{
+   margin-left: 30px;
+
+
+}
+
+.cartdata button{
+    border: none;
+    background-color:rgb(29, 82, 182);
+    
+}
+
+.cartdata button a{
+    color:white;
+    text-decoration: none;
+} */

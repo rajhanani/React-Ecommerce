@@ -1,0 +1,91 @@
+.product_details button a{
+    text-decoration:  none;
+    color: white;
+   
+}
+.product_details button{
+    border:none;
+    background-color: rgb(7, 83, 191);
+    padding: 10px 25px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+
+}
+.qty{
+    background-color: rgb(90, 107, 113);
+    padding: 10px 20px;
+    color:white;
+    border-radius: 5px;
+}
+.watch{
+    background-color: rgb(157, 196, 196);
+}
+
+.product_img{
+    width: 200px;
+   margin-left: 10px;
+    
+}
+
+.product_img img{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  
+}
+
+.product_main{
+    display: flex;
+    background-color:white;
+    width: 57%;
+    margin: 25px auto;
+    justify-content: space-between;
+    padding: 30px 5px;
+    height: auto;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 16px;
+    
+    
+    }
+    .total_prize{
+        background-color: rgb(97, 166, 212);
+        color: white;
+        padding: 10px;
+        font-size: 24px;
+        width: 250px;
+        margin: auto;
+        text-align: center;
+        margin-bottom: 10px;
+        border-radius: 20px;
+
+    }
+
+    .bg-warning{
+        border: none;
+       font-size: 20px;
+       border-radius: 20px;
+       width: 250px;
+       margin-right: 120px;
+       padding: 10px;
+       
+    }
+    .final{
+        margin-right: 20px;
+    }
+    
+
+    .total_main{
+        display: flex;
+        justify-content:center;
+    }
+
+   
+
+    .product_details h6{
+        color: black;
+        font-size: 20px;
+    }
+    .product_details{
+        width: 50%;
+    }

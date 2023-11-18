@@ -2,17 +2,18 @@ const intialstate ={
     carts:[]
 };
 
-export const cartreducer =(state=intialstate,action)=>{
+export const cartreducer = (state=intialstate,action)=>{
 
     switch(action.type){
 
         case "ADD_CART":
 
-       const newdata = action.payload ;
+       const newdata = action.payload;
+       
        newdata['qunty']= 0
        console.log(newdata)
 
-       const Itemindex = state.carts.findIndex((item)=>item.id===newdata.id);
+       const Itemindex = state.carts.findIndex((item)=>item.id === newdata.id);
        
        console.log(state.carts)
        console.log(newdata)

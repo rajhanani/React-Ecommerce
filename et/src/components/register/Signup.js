@@ -17,7 +17,7 @@ export const Signup = () => {
         name = e.target.name;
         value = e.target.value;
         setuser({ ...user, [name]: value })
-
+        
     }
     console.log(user)
 

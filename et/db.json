@@ -20,8 +20,14 @@
       "phone": "9913548243",
       "password": "1234556",
       "id": 3
+    },
+    {
+      "name": "deep",
+      "email": "deep@gmail.com",
+      "phone": "9913548243",
+      "password": "12345",
+      "id": 4
     }
-    
   ],
   "comments": [
     {
